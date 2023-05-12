@@ -12,14 +12,14 @@ const Search = () => {
   };
 
   const handleKeyDown = (event) => {
-    if (event.key === "Enter") {
+    if (event.key === "Enter" && message !== "") {
       history("/search/" + message);
     }
   };
 
   return (
     <Grid item xs style={{ margin: "1rem 0 2rem 0" }}>
-      <TextField 
+      <TextField
         fullWidth
         label="Search"
         id="fullWidth"
