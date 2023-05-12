@@ -1,5 +1,5 @@
 const RandomApi = () => {
-  const KEYS = ["96a1c32db8msh482cad42eb02aa4p1d4d8bjsn34a0540fb2a8"];
+  const KEYS = ["0ec40b7989msh7d5663abd3f71c9p131480jsn13f70c9441db"];
   return KEYS;
 };
 
