@@ -1,4 +1,5 @@
 export const CardContentStyle = {
+  color: "black",
   paddingBottom: "0",
   padding: "12px",
   width: "160px",

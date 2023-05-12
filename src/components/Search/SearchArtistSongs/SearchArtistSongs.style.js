@@ -4,6 +4,7 @@ export const DisplayStyle = {
   width: "100%",
 };
 export const SongsStyle = {
+  color: "black",
   display: "flex",
   justifyContent: "center",
   flexDirection: "column",
