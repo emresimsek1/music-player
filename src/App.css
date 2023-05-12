@@ -1,0 +1,15 @@
+@font-face {
+    font-family: GraublauWeb;
+    src: url("./fonts/Circular/CircularStd-Bold.ttf") format("opentype");
+}
+
+body {
+    font-family: GraublauWeb !important;
+  
+
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+
+ 

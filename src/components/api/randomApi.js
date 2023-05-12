@@ -1,0 +1,22 @@
+const RandomApi = () => {
+  const KEYS = ["96a1c32db8msh482cad42eb02aa4p1d4d8bjsn34a0540fb2a8"];
+  return KEYS;
+};
+
+export default RandomApi();
+/*otherkeys
+ed2cd54d03mshce48425f157701ep17dbb8jsn6abb19808556
+3ba43fd65amshe0411c572f650e9p19f2ecjsn574509d6dc00
+a987ff302bmshf21ccffac4eaa53p134708jsn88adcf3c339b
+cb63c375c2msh1700a7166f909ccp176c43jsn21572be046c6
+4f7d07e082msh9795b661dba9f90p122892jsnc7544a5d3000
+ca76cbb69fmshe07b8df9fc21aafp144b6fjsn4864926e6c9d
+df7a8c77fcmsh2ecad354c8b0f35p133249jsn6f10f64dc34f
+525b9d1ae3msh1b3139fc8ece1edp1f2cbbjsn45131b8f5e24
+9e17be5610msh4d9b25f872677e0p1e0efbjsn19326bc5c51a
+96a1c32db8msh482cad42eb02aa4p1d4d8bjsn34a0540fb2a8
+9afa3afd8emsh2fd32dc8da044f5p10c27bjsn0313b7b0543e
+c86ad65bfemshb3961cf3e56f52dp171f71jsn7e9be2bd8555
+0fd0d4bedcmsh95e3b2439e44084p1e1ba5jsn6f5b13c813a2
+0ec40b7989msh7d5663abd3f71c9p131480jsn13f70c9441db
+   */
