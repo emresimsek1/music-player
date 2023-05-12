@@ -12,7 +12,7 @@ const Search = () => {
   };
 
   const handleKeyDown = (event) => {
-    if (event.key === "Enter" && message !== "") {
+    if (event.key === "Enter" && message.trim() !== "") {
       history("/search/" + message);
     }
   };
