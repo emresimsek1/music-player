@@ -14,27 +14,27 @@ const Footer = () => {
       </Grid>
       <Grid item xs style={{ display: "flex", justifyContent: "center" }}>
         <Link
-          to="https://shorturl.at/aisC2"
+          to="https://www.instagram.com/senemrede"
           style={{ padding: "0 1rem 0 1rem" }}
         >
           <InstagramIcon fontSize="large" />
         </Link>
         <Link
-          to="https://shorturl.at/rKRV7"
+          to="https://twitter.com/senemrede"
           style={{ padding: "0 1rem 0 1rem" }}
         >
           <TwitterIcon fontSize="large" />
         </Link>
 
         <Link
-          to="https://shorturl.at/knGLX"
+          to="https://github.com/emresimsek1"
           style={{ padding: "0 1rem 0 1rem" }}
         >
           <GitHubIcon fontSize="large" />
         </Link>
 
         <Link
-          to="https://shorturl.at/mntNO"
+          to="https://www.linkedin.com/in/emre-şimşek" // i know, know
           style={{ padding: "0 1rem 0 1rem" }}
         >
           <LinkedInIcon fontSize="large" />
